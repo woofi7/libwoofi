@@ -1,0 +1,7 @@
+*.o
+malloc.out
+gmon.out
+.cproject
+.project
+.settings
+run_test
